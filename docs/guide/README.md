@@ -1,0 +1,1 @@
+https://scotch.io/tutorials/zero-to-deploy-build-a-documentation-system-with-vue-and-vuepress#toc-what-are-static-sites-
