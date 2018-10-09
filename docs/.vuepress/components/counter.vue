@@ -3,6 +3,8 @@
       <h1>{{number}}</h1>
       <button @click = "increment">Increment</button>
       <button @click = "decrement">Decrement</button>
+
+      <!-- https://scotch.io/tutorials/zero-to-deploy-build-a-documentation-system-with-vue-and-vuepress#toc-what-are-static-sites- -->
   </div>
 </template>
 
