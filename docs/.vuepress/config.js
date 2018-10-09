@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Scotch VuePress',
+    title: 'Gart VuePress',
     description: "A demo documentation using VuePress",
     themeConfig:{
         nav: [
@@ -8,20 +8,20 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: 'Counter',
-                collapsable: false,
-                children: [
+              title: 'Counter',
+              collapsable: false,
+              children: [
                 '/counter/counter-app'
-                ]
+              ]
             },
             {
-                title: 'API Guide',
-                collapsable: false,
-                children: [
-                    '/guide/guide',
-                    '/guide/api'
-                ]
+              title: 'API Guide',
+              collapsable: false,
+              children: [
+                  '/guide/guide',
+                  '/guide/api'
+              ]
             }
-            ]
+          ]
     }
 }
