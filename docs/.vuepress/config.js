@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Gart VuePress',
-    description: "A demo documentation using VuePress",
+    title: 'Tagbu',
+    description: "Why start using tagbu? Documentation details to be posted soon",
     themeConfig:{
         nav: [
             { text: 'COUNTER', link: '/counter/' },
