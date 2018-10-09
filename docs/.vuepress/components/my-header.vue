@@ -1,13 +1,10 @@
 <template>
-	<div class="">
-		<h1>This Header is actually a Vue Template</h1>
-	</div>
+    <div>
+        <h1>This Header is actually a Vue Template</h1>
+    </div>
 </template>
-
 <script>
-	
-</script>
 
+</script>
 <style scoped>
-	
 </style>
